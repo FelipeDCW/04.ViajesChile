@@ -1,4 +1,22 @@
+.body * {
+    background-color: black;
+    color: white;
+}
 .colorfondonegro{
     background-color: black;
     color: white;
+}
+
+.colorbarra{
+    background-color: #0dc9f0;
+}
+.colorfondocard{
+    background-color:aquamarine
+}
+
+@media(max-width: 768px)
+{
+    .anchotarjeta{
+        width: 18rem;
+    }
 }
