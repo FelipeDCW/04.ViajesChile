@@ -1,5 +1,4 @@
-.body * {
-    background-color: black;
+.colorletra{
     color: white;
 }
 .colorfondonegro{
@@ -11,7 +10,7 @@
     background-color: #0dc9f0;
 }
 .colorfondocard{
-    background-color:aquamarine
+    background-color:deepskyblue
 }
 
 @media(max-width: 768px)
@@ -20,3 +19,16 @@
         width: 18rem;
     }
 }
+footer{
+    background-color:deepskyblue;
+    height: 5rem;
+}
+footer div p{
+    width: 20rem;
+    font-size:2rem;
+}
+footer div i{
+    width: 3rem;
+    font-size:2rem;
+}
+
